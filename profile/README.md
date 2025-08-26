@@ -3,19 +3,12 @@
 </p>
 
 <h1 align="center">🎮 JMT (Joy Make Try)</h1>
-<!-- <p align="center"><em>대충뭐시기멋진말</em></p> -->
+<p align="center"><em>3번의 실패는 성공을 위한것이였다.</em></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-2024-blue?logo=unity&logoColor=white" alt="Unity"/>
   <img src="https://img.shields.io/badge/C%23-Modern-red?logo=c-sharp&logoColor=white" alt="C#"/>
 </p>
-
-<!-- --- -->
-
-<!-- ## ✨ 팀 소개
-네우리이런팀이에여우리짱멋짐 -->
-
----
 
 ## 👥 팀원 소개
 
@@ -45,7 +38,3 @@
 </p>
 
 ---
-
-<!-- <p align="center">
-  💡 <em>"대충하고싶은말”</em>
-</p> -->
